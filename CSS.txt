@@ -1,0 +1,11 @@
+Basic
+- CSS Text Styling (font-size, font-family)
+- CSS Box model (margin, padding, border)
+- CSS Position (semantic, relative, absolute, fixe)
+- CSS Layout (display: block, inline, inline-block)
+- CSS float wrap text ได้ (float: left, float: right)
+- CSS Image (backgrouund-color, backgrouund-image, )
+
+Advance นิดนึง
+- CSS Pseudo class (:hover, :active, :first-chil )
+- CSS Transition and animaation

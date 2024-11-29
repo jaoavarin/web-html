@@ -4,7 +4,7 @@ Outline
 - DOM (html tag)
 - html (id, class, attribute)
 - type of html
-  - html content (h1-h6, p, list, table, link, image, video, br, )
+  - html content (h1-h6, p, list, table, link, image, video, br, div)
   - html semantic
-  - html from (input text-number, checkbox, radio, textarea, bu) 
+  - html from (input text-number, checkbox, radio, textarea, button) 
 - example register form
